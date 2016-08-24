@@ -1,0 +1,24 @@
+{
+  "name": "escape-markdown",
+  "version": "1.0.0",
+  "description": "Escape Markdown control characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwmurph/escape-markdown.git"
+  },
+  "author": "Edward Murphy",
+  "keywords": [
+    "Markdown",
+    "escape",
+    "string"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwmurph/escape-markdown/issues"
+  },
+  "homepage": "https://github.com/edwmurph/escape-markdown#readme"
+}
