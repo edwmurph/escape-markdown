@@ -1,6 +1,6 @@
 {
   "name": "escape-markdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Escape Markdown control characters.",
   "main": "index.js",
   "scripts": {
