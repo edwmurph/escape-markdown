@@ -13,7 +13,7 @@ const map = {
   '=': '\=',
   '<': '&lt;',
   '>': '&gt;',
-  '&': '&amp'
+  '&': '&amp;'
 };
 
-module.exports = (string) => string.replace(/[\*\(\)\[\]\+\\_\-`=#<>]/g, m => map[m]);
+module.exports = (string) => string.replace(/[\*\(\)\[\]\+\-\\_`#<>]/g, m => map[m]);
